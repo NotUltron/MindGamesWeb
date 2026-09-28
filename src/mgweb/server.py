@@ -1,5 +1,6 @@
 ﻿from flask import Flask, render_template, jsonify, request
 
+# Structure
 class Server:
     def __init__(self):
         self.flask = Flask(__name__)
