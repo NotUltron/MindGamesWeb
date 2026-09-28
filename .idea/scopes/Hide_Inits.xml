@@ -1,3 +1,0 @@
-<component name="DependencyValidationManager">
-  <scope name="Hide Inits" pattern="!file:*__init__.py" />
-</component>
